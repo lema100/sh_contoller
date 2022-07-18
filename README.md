@@ -1,1 +1,1 @@
-# sh_contoller
+# Smart Home I/O controller
